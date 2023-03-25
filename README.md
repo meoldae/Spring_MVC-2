@@ -12,7 +12,7 @@ Inflearn - 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
 - `연산` : [bc74c95](https://github.com/meoldae/Spring_MVC-2/commit/bc74c957e3273c47bb55cdb6619e9d6f823e1ac9)
 - `속성 추가/수정` : [5336c4e](https://github.com/meoldae/Spring_MVC-2/commit/5336c4e11e4e89fdf22291253586ac66524929ab)
 - `반복` : [7d0250f](https://github.com/meoldae/Spring_MVC-2/commit/7d0250f8daa3b0d642ec100b67ee0e4a1350c293)
-- `조건문(If, Switch) : [31f8600](https://github.com/meoldae/Spring_MVC-2/commit/31f86001c7177db4803c4a12dd48c0e078ddf9ad)
+- `조건문(If, Switch)` : [31f8600](https://github.com/meoldae/Spring_MVC-2/commit/31f86001c7177db4803c4a12dd48c0e078ddf9ad)
 - `주석` : [5b1dd82](https://github.com/meoldae/Spring_MVC-2/commit/5b1dd825dfe24581d110d6a9b7261ae770c40a0b)
 - `블록` : [f600f8d](https://github.com/meoldae/Spring_MVC-2/commit/f600f8ddb2c5278df6fa2b6902f5100c5443cd72)
 - `자바스크립트 인라인` : [25f4fd6](https://github.com/meoldae/Spring_MVC-2/commit/25f4fd6638eaf5bc4fdfff9df38f50774e0714f6)
