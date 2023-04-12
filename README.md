@@ -59,4 +59,15 @@ Inflearn - 스프링 MVC 2편 - 백엔드 웹 개발 활용 기술
   ```commit``` : [361db22](https://github.com/meoldae/Spring_MVC-2/commit/361db22c43c79430521572c71222f9bed6f1f896)   
 
 ## 0x04. Bean Validation
-- 순수한 Bean Validation - ValidatorFactory를 통한 객체 획득
+- 순수한 Bean Validation - ValidatorFactory를 통한 객체 획득   
+  ```commit``` : [5bf7360](https://github.com/meoldae/Spring_MVC-2/commit/5bf736096101a10c1d43f58326053206d7e30ec3)   
+- Bean Validation과 오류 메시지   
+  ```commit``` : [8597312](https://github.com/meoldae/Spring_MVC-2/commit/859731275cd35d4a15a89123ed6e209c29260cc7)   
+- Bean Validaion에서의 Object Error   
+  ```commit``` : [ac450f2](https://github.com/meoldae/Spring_MVC-2/commit/ac450f2ab86ba1d9c1a8f9e0a21998c7b928917f)   
+- Groups - 원하는 용도의 검증만 적용   
+  ```commit``` : [1c305a0](https://github.com/meoldae/Spring_MVC-2/commit/1c305a099ff6209d313a73dbe9e6e165bddc2362)   
+- 용도에 따른 Form 전송 객체 분리   
+  ```commit``` : [7b055e3](https://github.com/meoldae/Spring_MVC-2/commit/7b055e36dae3de69211576e70cc2aa5c0ca01918)   
+- API (JSON) 방식에서의 검증 - HTTP Converter   
+  ```commit``` : [944b4c6](https://github.com/meoldae/Spring_MVC-2/commit/944b4c6244edd0e65bf9791a744eb45c4aeed431)   
