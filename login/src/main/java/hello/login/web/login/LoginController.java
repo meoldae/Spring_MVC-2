@@ -89,13 +89,13 @@ public class LoginController {
     // @PostMapping("/logout")
     public String logout(HttpServletResponse response) {
         expiredCookie(response, "memberId");
-        return "redirec:/";
+        return "redirect:/";
     }
 
     // @PostMapping("/logout")
     public String logoutV2(HttpServletRequest request) {
         sessionManager.expire(request);
-        return "redirec:/";
+        return "redirect:/";
     }
 
     @PostMapping("/logout")
@@ -104,7 +104,7 @@ public class LoginController {
         if (session != null) {
             session.invalidate();
         }
-        return "redirec:/";
+        return "redirect:/";
     }
 
     private static void expiredCookie(HttpServletResponse response, String cookieName) {
